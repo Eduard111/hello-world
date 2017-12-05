@@ -1,2 +1,3 @@
 # hello-world
-This is my 1st repository
+
+Eduard here, I enjoyed a tasty selfmade lunch today while overlooking surfers at the beach.
